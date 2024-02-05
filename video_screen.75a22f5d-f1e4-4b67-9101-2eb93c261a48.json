@@ -38,20 +38,11 @@
         "TabNavigationOptions": {
             "tabBarVisible": true
         },
-        "TabNavigatorIcon": {},
-        "DrawerNavigationOptions": {},
-        "StackNavigationOptions": {
-            "headerStyle": {}
-        },
         "ScreenOrientation": "portrait",
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true,
-        "navigationOptions": {
-            "headerStyle": {}
-        },
-        "tabNavigationOptions": {}
+        "isSimple": true
     },
     "children": [
         {
@@ -132,7 +123,6 @@
                     "color": "rgba(0, 0, 0, 1)",
                     "fontSize": 18,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -211,7 +201,6 @@
                     "top": "0.35981917488521364%",
                     "display": "flex"
                 },
-                "capInsets": {},
                 "ParentId": "9bc408e3-51fa-48c5-a02f-4a73ceea742d",
                 "position": "absolute",
                 "edgeOffsets": 2
@@ -281,7 +270,6 @@
                     "color": "rgba(230, 0, 241, 1)",
                     "fontSize": 21,
                     "fontStyle": "normal",
-                    "textShadowOffset": {},
                     "letterSpacing": 0,
                     "textDecorationLine": "none",
                     "textDecorationStyle": "solid",
@@ -362,7 +350,6 @@
                     "top": "11.904047060942185%",
                     "display": "flex"
                 },
-                "capInsets": {},
                 "ParentId": "9bc408e3-51fa-48c5-a02f-4a73ceea742d",
                 "position": "absolute",
                 "edgeOffsets": 93
